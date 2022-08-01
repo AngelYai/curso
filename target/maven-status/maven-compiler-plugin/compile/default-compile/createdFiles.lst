@@ -1,0 +1,6 @@
+com\mycompany\curso\dao\AlumnosDAO.class
+com\mycompany\curso\to\AlumnosTO.class
+com\mycompany\curso\negocio\AlumnosNegocio.class
+com\mycompany\curso\conexion\Conexion.class
+com\mycompany\curso\principal.class
+com\mycompany\curso\to\ResultadoTO.class
